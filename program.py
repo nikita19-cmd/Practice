@@ -1,3 +1,5 @@
+#Take user input and check sign of digit
+
 number = float(input("Enter a number: "))
 
 if number > 0:
