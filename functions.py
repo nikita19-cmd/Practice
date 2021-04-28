@@ -1,4 +1,4 @@
-# Grading Student Based on Marks Obtained by Making Functions
+# Grading Student Based on Marks Obtained by Making Functions and prints it
 
 def ave(marks):
     numsubj = len(marks)
