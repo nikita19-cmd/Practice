@@ -73,7 +73,7 @@ index()	        Returns the index of the first element with the specified value.
                 print(List.index(2))
                 Output:1
 
-insert()	      Adds an element at the specified position
+insert()	     Adds an element at the specified position
                 List = ['Mathematics', 'chemistry', 1997, 2000]
                 List.insert(2,10087)     
                 print(List)        
@@ -105,7 +105,7 @@ reverse()      	Reverses the order of the list. Sort the given data structure (b
                 print(List)        
                 Output: [5.33, 4.445, 3, 2.5, 2.3, 1.054]
               
-sort()	        Sorts the list in particular manner.
+sort()	        Sorts the list in particular manner . 
                 # vowels list
                 vowels = ['e', 'a', 'u', 'o', 'i']
                 # sort the vowels
