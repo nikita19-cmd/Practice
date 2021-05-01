@@ -41,10 +41,9 @@ print("answer is", multiply)
 
 #return print function
 
-def greet(name)
-    return f"Hey {name} !"
+def greet(name):
+    return f"Hey {name}!"
 
 print(greet('Mahee'))
-
 
  
