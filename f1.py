@@ -37,3 +37,14 @@ m2 = int(input("Enter y value: "))
 multiply = multiply_numbers(m1, m2)
 print("answer is", multiply)
     
+
+
+#return print function
+
+def greet(name)
+    return f"Hey {name} !"
+
+print(greet('Mahee'))
+
+
+ 
