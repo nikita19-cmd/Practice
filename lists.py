@@ -9,7 +9,7 @@ Python has a set of built-in methods that you can use on lists.
 
 Method	        Description
 
-append()	      Adds an element at the end of the list
+append()	Adds an element at the end of the list
                 List = ['Mathematics', 'chemistry', 1997, 2000]
                 List.append(20544)
                 print(List)
@@ -59,7 +59,7 @@ count()	        Returns the number of elements with the specified value
                 print(List.count(1))
                 Output:4
 
-extend()	      Add the elements of a list (or any iterable), to the end of the current list
+extend()	Add the elements of a list (or any iterable), to the end of the current list
                 List1 = [1, 2, 3] 
                 List2 = [2, 3, 4, 5]
                 List1.extend(List2)        
@@ -73,13 +73,13 @@ index()	        Returns the index of the first element with the specified value.
                 print(List.index(2))
                 Output:1
 
-insert()	     Adds an element at the specified position
+insert()	Adds an element at the specified position
                 List = ['Mathematics', 'chemistry', 1997, 2000]
                 List.insert(2,10087)     
                 print(List)        
                 Output: ['Mathematics', 'chemistry', 10087, 1997, 2000, 20544]
 
-pop()	          Removes the element at the specified position ,by default takes out last element
+pop()	        Removes the element at the specified position ,by default takes out last element
                 List = [2.3, 4.445, 3, 5.33, 1.054, 2.5]
                 print(List.pop())
                 Output: 2.5
@@ -90,7 +90,7 @@ del() :         Element to be deleted is mentioned using list name and index.
                 print(List)
                 Output: [4.445, 3, 5.33, 1.054, 2.5]
 
-remove()	      Removes the item with the specified value.
+remove()	Removes the item with the specified value.
                 List = [2.3, 4.445, 3, 5.33, 1.054, 2.5]
                 List.remove(3)
                 print(List)
