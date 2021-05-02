@@ -7,11 +7,11 @@
 ## List Methods
 Python has a set of built-in methods that you can use on lists.
 
-Method	        Description
+Method	      
 
 append()	Adds an element at the end of the list
-
-                ```List = ['Mathematics', 'chemistry', 1997, 2000]
+                ```  
+                List = ['Mathematics', 'chemistry', 1997, 2000]
                 List.append(20544)
                 print(List)
                 Output: ['Mathematics', 'chemistry', 1997, 2000, 20544]
@@ -19,8 +19,8 @@ append()	Adds an element at the end of the list
           
 
 clear()	        Removes all the elements from the list.
-
-                ```list = ['1','2','3']  
+                ```
+                list = ['1','2','3']  
                 for l in list:  # Iterating list  
                 print(l)  
                 list.clear()  
@@ -35,8 +35,8 @@ clear()	        Removes all the elements from the list.
                   
                   
 max():          Calculates maximum of all the elements of List.
-
-                ```List = [2.3, 4.445, 3, 5.33, 1.054, 2.5]
+                ``` 
+                List = [2.3, 4.445, 3, 5.33, 1.054, 2.5]
                 print(max(List))
                 Output:5.33
                 ```
