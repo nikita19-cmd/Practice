@@ -22,7 +22,8 @@ aveofmarks = ave(marks)
 grade = grades(aveofmarks)
 
 print(aveofmarks)
-print(grade)```
+print(grade)
+```
 
 
 
