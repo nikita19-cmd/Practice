@@ -9,3 +9,7 @@ message = "How you doing?"           ##global
 print("Message outside function:", message)
 greet()
 ```
+# Output
+```
+Message outside function: How you doing?
+Message inside function: How are you?
