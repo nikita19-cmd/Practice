@@ -1,6 +1,6 @@
 # Grading Student Based on Marks Obtained by Making Functions and prints it
 
-def ave(marks):
+```def ave(marks):
     numsubj = len(marks)
     totalmarks = sum(marks)
     aveofmarks = totalmarks / numsubj
@@ -22,7 +22,7 @@ aveofmarks = ave(marks)
 grade = grades(aveofmarks)
 
 print(aveofmarks)
-print(grade)
+print(grade)```
 
 
 
